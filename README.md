@@ -5,6 +5,8 @@ Simple game of snake, written using PyGame
 
 ```git clone https://github.com/0xAJ2K/Snake.git```
 
+```cd Snake```
+
 ```pip3 install -r requirements.txt```
 
 ```python3 snake.py```
