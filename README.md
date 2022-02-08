@@ -1,2 +1,2 @@
 # Snake
-Simple game of snake, written in PyGame
+Simple game of snake, written using PyGame
